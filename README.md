@@ -18,8 +18,8 @@ The functionality should be exposed as a `queries.service.process` function. The
 
 ## To Be Implimented
 
-[ ] Main Program Logic
-[ ] Some basic crawler/indexers (Including Elastic Search)
-[ ] Better Documentation (Guide to use and to build upon this)
-[ ] Way to automatically get installed indexers/queries
-[ ] More To Be Implimented Stuff
+- [ ] Main Program Logic
+- [ ] Some basic crawler/indexers (Including Elastic Search)
+- [ ] Better Documentation (Guide to use and to build upon this)
+- [ ] Way to automatically get installed indexers/queries
+- [ ] More To Be Implimented Stuff
