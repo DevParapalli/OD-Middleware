@@ -26,7 +26,7 @@ The functionality should be exposed as a `queries.service.process` function. The
 
 ## Extractors/Queries WIP
 
-- This is a list of indexers I am planning to impliment, Contact RogueCatalyst (HASH) 4144 over at Discord to add more. I am not very good with GitHub PRs and Git Merges.
+- This is a list of indexers I am planning to implement, Contact RogueCatalyst (HASH) 4144 over at Discord to add more. I am not very good with GitHub PRs and Git Merges.If someone can guide me or link me to a guide, it would be appreciated.
 
 Credit : u/GrowAsguard at r/opendirectories, [Post Here](https://www.reddit.com/r/opendirectories/comments/lj0a1e/my_favorite_open_directory_search_tools/)
 
