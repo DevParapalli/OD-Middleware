@@ -1,0 +1,201 @@
+{
+    "took": 1669,
+    "timed_out": false,
+    "_shards": { "total": 1, "successful": 1, "skipped": 0, "failed": 0 },
+    "hits": {
+        "total": { "value": 10000, "relation": "gte" },
+        "max_score": 31.288273,
+        "hits": [
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5f62be7900843b9200e40d0c",
+                "_score": 31.288273,
+                "_source": {
+                    "url": "http://mirror.thelifeofkenneth.com/sites/erewhon.superkuh.com/library/Physics/Understanding the Boron-11_ proton-alpha_alpha_alpha reaction at 675KeV resonance_ tri-alpha-paper.pdf",
+                    "filename": "Understanding the Boron-11_ proton-alpha_alpha_alpha reaction at 675KeV resonance_ tri-alpha-paper.pdf",
+                    "extension": "pdf"
+                },
+                "highlight": {
+                    "filename": [
+                        "Understanding the Boron-11_ proton-<em>alpha</em>_<em>alpha</em>_<em>alpha</em> reaction at 675KeV resonance_ tri-<em>alpha</em>-paper.pdf"
+                    ],
+                    "url": [
+                        "mirror.thelifeofkenneth.com/sites/erewhon.superkuh.com/library/Physics/Understanding the Boron-11_ proton-<em>alpha</em>_<em>alpha</em>_<em>alpha</em>",
+                        "reaction at 675KeV resonance_ tri-<em>alpha</em>-paper.pdf"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "605b9af60091725e001114cc",
+                "_score": 31.288273,
+                "_source": {
+                    "url": "http://superkuh.com/library/Physics/Understanding the Boron-11_ proton-alpha_alpha_alpha reaction at 675KeV resonance_ tri-alpha-paper.pdf",
+                    "filename": "Understanding the Boron-11_ proton-alpha_alpha_alpha reaction at 675KeV resonance_ tri-alpha-paper.pdf",
+                    "extension": "pdf"
+                },
+                "highlight": {
+                    "filename": [
+                        "Understanding the Boron-11_ proton-<em>alpha</em>_<em>alpha</em>_<em>alpha</em> reaction at 675KeV resonance_ tri-<em>alpha</em>-paper.pdf"
+                    ],
+                    "url": [
+                        "http://superkuh.com/library/Physics/Understanding the Boron-11_ proton-<em>alpha</em>_<em>alpha</em>_<em>alpha</em> reaction at",
+                        "675KeV resonance_ tri-<em>alpha</em>-paper.pdf"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5fc67e730033074a00c853a2",
+                "_score": 31.288273,
+                "_source": {
+                    "url": "http://erewhon.superkuh.com/library/Physics/Understanding the Boron-11_ proton-alpha_alpha_alpha reaction at 675KeV resonance_ tri-alpha-paper.pdf",
+                    "filename": "Understanding the Boron-11_ proton-alpha_alpha_alpha reaction at 675KeV resonance_ tri-alpha-paper.pdf",
+                    "extension": "pdf"
+                },
+                "highlight": {
+                    "filename": [
+                        "Understanding the Boron-11_ proton-<em>alpha</em>_<em>alpha</em>_<em>alpha</em> reaction at 675KeV resonance_ tri-<em>alpha</em>-paper.pdf"
+                    ],
+                    "url": [
+                        "http://erewhon.superkuh.com/library/Physics/Understanding the Boron-11_ proton-<em>alpha</em>_<em>alpha</em>_<em>alpha</em> reaction",
+                        "at 675KeV resonance_ tri-<em>alpha</em>-paper.pdf"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5face84e007ce06e00ba8f81",
+                "_score": 29.778229,
+                "_source": {
+                    "url": "http://dl.myavangmusic.com/Mp3/DB/ghadimi/Amir Alpha - Alpha Rays/Amir Alpha - Alpha Rays.zip",
+                    "filename": "Amir Alpha - Alpha Rays.zip",
+                    "extension": "zip"
+                },
+                "highlight": {
+                    "filename": [
+                        "Amir <em>Alpha</em> - <em>Alpha</em> Rays.zip"
+                    ],
+                    "url": [
+                        "http://dl.myavangmusic.com/Mp3/DB/ghadimi/Amir <em>Alpha</em> - <em>Alpha</em> Rays/Amir <em>Alpha</em> - <em>Alpha</em> Rays.zip"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5face84e002efc7c00ba8f82",
+                "_score": 29.778229,
+                "_source": {
+                    "url": "http://dl.myavangmusic.com/Mp3/DB/ghadimi/Amir Alpha - Alpha Rays/Amir Alpha - Alpha Rays%5bOGG%5d.zip",
+                    "filename": "Amir Alpha - Alpha Rays%5bOGG%5d.zip",
+                    "extension": "zip"
+                },
+                "highlight": {
+                    "filename": [
+                        "Amir <em>Alpha</em> - <em>Alpha</em> Rays%5bOGG%5d.zip"
+                    ],
+                    "url": [
+                        "http://dl.myavangmusic.com/Mp3/DB/ghadimi/Amir <em>Alpha</em> - <em>Alpha</em> Rays/Amir <em>Alpha</em> - <em>Alpha</em> Rays%5bOGG%5d.zip"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5f66d0e900fe5b71001ca943",
+                "_score": 29.391838,
+                "_source": {
+                    "url": "http://master255.org/res/Музыка/A/Alpha 9/Alpha 9 - Bliss (Alpha 9 Club Mix).flac",
+                    "filename": "Alpha 9 - Bliss (Alpha 9 Club Mix).flac",
+                    "extension": "flac"
+                },
+                "highlight": {
+                    "filename": [
+                        "<em>Alpha</em> 9 - Bliss (<em>Alpha</em> 9 Club Mix).flac"
+                    ],
+                    "url": [
+                        "http://master255.org/res/Музыка/A/<em>Alpha</em> 9/<em>Alpha</em> 9 - Bliss (<em>Alpha</em> 9 Club Mix).flac"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5fadd6d90062c63c00e90d59",
+                "_score": 28.676567,
+                "_source": {
+                    "url": "http://www.trendolizer.com/2015/08/alpha-sigma-alpha-accepts-first-ever-sorority-girl-with-downs-syndrome.html",
+                    "filename": "alpha-sigma-alpha-accepts-first-ever-sorority-girl-with-downs-syndrome.html",
+                    "extension": "html"
+                },
+                "highlight": {
+                    "filename": [
+                        "<em>alpha</em>-sigma-<em>alpha</em>-accepts-first-ever-sorority-girl-with-downs-syndrome.html"
+                    ],
+                    "url": [
+                        "http://www.trendolizer.com/2015/08/<em>alpha</em>-sigma-<em>alpha</em>-accepts-first-ever-sorority-girl-with-downs-syndrome.html"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5fcee56000a0816700b6f815",
+                "_score": 28.676567,
+                "_source": {
+                    "url": "https://data.ddosecrets.com/file/Perceptics/Perceptics WIG/Market Seg Competitor Analysis/2014 Analysis Archive/Group A Market Segments/US %26 Canada Critical Access Control %26 Federal Bldgs/WEB PAGES OF INTERESTINFO/Operation Shield  Homeland Security_files/alpha-alpha.css",
+                    "filename": "alpha-alpha.css",
+                    "extension": "css"
+                },
+                "highlight": {
+                    "filename": ["<em>alpha</em>-<em>alpha</em>.css"],
+                    "url": [
+                        "Access Control %26 Federal Bldgs/WEB PAGES OF INTERESTINFO/Operation Shield  Homeland Security_files/<em>alpha</em>-<em>alpha</em>.css"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5fcee5600038ec5c00b6f85f",
+                "_score": 28.676567,
+                "_source": {
+                    "url": "https://data.ddosecrets.com/file/Perceptics/Perceptics WIG/Market Seg Competitor Analysis/2014 Analysis Archive/Group A Market Segments/US %26 Canada Critical Access Control %26 Federal Bldgs/WEB PAGES OF INTERESTINFO/Report Suspicious Activity to Federal Protective Service  Homeland Security_files/alpha-alpha.css",
+                    "filename": "alpha-alpha.css",
+                    "extension": "css"
+                },
+                "highlight": {
+                    "filename": ["<em>alpha</em>-<em>alpha</em>.css"],
+                    "url": [
+                        "PAGES OF INTERESTINFO/Report Suspicious Activity to Federal Protective Service  Homeland Security_files/<em>alpha</em>-<em>alpha</em>.css"
+                    ]
+                }
+            },
+            {
+                "_index": "links",
+                "_type": "_doc",
+                "_id": "5fae68dd00accf2f00203bd2",
+                "_score": 28.676567,
+                "_source": {
+                    "url": "http://ftp.pigwa.net/stuff/media/audio/scene_music/Remix.Kwed.Org (2000-2014)/RKO-2011 Complete/RKO-2011 Q4/Alpha C - Foreign Girl (Alpha C remix).mp3",
+                    "filename": "Alpha C - Foreign Girl (Alpha C remix).mp3",
+                    "extension": "mp3"
+                },
+                "highlight": {
+                    "filename": [
+                        "<em>Alpha</em> C - Foreign Girl (<em>Alpha</em> C remix).mp3"
+                    ],
+                    "url": [
+                        "ftp.pigwa.net/stuff/media/audio/scene_music/Remix.Kwed.Org (2000-2014)/RKO-2011 Complete/RKO-2011 Q4/<em>Alpha</em>",
+                        "C - Foreign Girl (<em>Alpha</em> C remix).mp3"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -8,18 +8,15 @@ Pretty much WIP. More documentation incoming.
 ## Contributors Notes:
 
 I am a 12th Year Student, Not much time could be invested by me.
-Contributions are very welcome. Feel Free to correct my code, just make sure you don't break other parts of the codebase while doing this. 
+Contributions are very welcome. Feel Free to correct my code, just make sure you don't break other parts of the codebase while doing this.
 I will be able to add small bits to this. The code is supposed to be used as a middleware, not a be-all or end-all solution, will try to get at-least a CLI or something.
 
-a service should be named such that it can be imported into python using importlib, in short keep it ascii text only.
-ie, odcrawler.xyz should be renamed as odcrawler_xyz.py
-
-The functionality should be exposed as a `queries.service.process` function. The function should accept a `classes.Query` and return a list containing the result in a specified format (explained in `queries.example.unified_format`).
+Take a look at the `plugins/resolver_example.py` file to learn more about how the files interact.
 
 ## To Be Implimented
 
-- [ ] Main Program Logic
-- [ ] Some basic crawler/indexers (Including Elastic Search)
+- [x] Main Program Logic(WARN: very jank)
+- [ ] Some basic crawler/indexers (Including Elastic Search) (Imma go for rest apis first)
 - [ ] Better Documentation (Guide to use and to build upon this)
 - [ ] Way to automatically get installed indexers/queries
 - [ ] More To Be Implimented Stuff
@@ -27,6 +24,7 @@ The functionality should be exposed as a `queries.service.process` function. The
 ## Extractors/Queries WIP
 
 - This is a list of indexers I am planning to implement, Contact RogueCatalyst (HASH) 4144 over at Discord to add more. I am not very good with GitHub PRs and Git Merges.If someone can guide me or link me to a guide, it would be appreciated.
+- Ideally a Microservice running on either FastAPI or DRF might be better imo. Just so I can prolly host it on heroku or something. Let me know, Raise a issue if needed.
 
 Credit : u/GrowAsguard at r/opendirectories, [Post Here](https://www.reddit.com/r/opendirectories/comments/lj0a1e/my_favorite_open_directory_search_tools/)
 
@@ -43,7 +41,7 @@ Search GDrive:-
 <https://eyedex.org/> (Search The Eye)
 
 Search Open Directory DDLs :-
-<https://odcrawler.xyz/>
+<https://odcrawler.xyz/> # Somewhat done is jank
 <https://www.filechef.com/>
 <https://opendirsearch.abifog.com/>
 <http://palined.com/search/>
